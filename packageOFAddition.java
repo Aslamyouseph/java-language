@@ -11,10 +11,8 @@ public class packageOFAddition {
 
         additionOperation result = new additionOperation();
         int resultOfAddition = result.add(num1, num2);
-        int resultOfSubtraction = result.subtract();
 
         System.out.println("Sum of two number is " + resultOfAddition);
-        System.out.println("Difference of two number is " + resultOfSubtraction);
 
     }
 

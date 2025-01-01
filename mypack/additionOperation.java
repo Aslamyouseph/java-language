@@ -10,9 +10,4 @@ public class additionOperation {
         sum = num1 + num2;
         return sum;
     }
-
-    public int subtract() {
-        diff = num1 - num2;
-        return diff;
-    }
 }
